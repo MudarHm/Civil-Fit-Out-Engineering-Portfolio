@@ -9,7 +9,7 @@
 
 ## 📝 About Me
 
-I am a **Civil Engineer / Project Engineer** with over **3 years of experience** in the UAE construction industry.  
+I am a **Civil Engineer / Project Coordination Engineer** with over **4 years of experience** in the UAE construction industry.  
 My expertise lies in managing luxury villa projects, façade cladding, steel structures, MEP & interior fit-out works — from concept to completion.  
 
 Throughout my career, I have successfully delivered high-end residential and commercial projects by coordinating with consultants, clients, subcontractors and ensuring quality standards and timely handovers.
@@ -53,7 +53,6 @@ Throughout my career, I have successfully delivered high-end residential and com
 
 - 📧 Email: [mudarhamchou234@gmail.com](mailto:mudarhamchou234@gmail.com)  
 - 📞 Phone: +971 55 373 8745  
-- LinkedIn: *(Add link here if available)*
 
 ---
 
