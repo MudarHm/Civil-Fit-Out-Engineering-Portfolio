@@ -1,33 +1,60 @@
 
-# Civil Fit-Out Engineering Portfolio
+# 👋 Mudar Hamchou - Civil Engineer | Project Engineer
 
-## 👷‍♂️ Project: Luxury Villa 132
+📍 Based in Dubai, UAE  
+📞 +971 55 373 8745  
+📧 mudarhamchou234@gmail.com  
 
-- 📍 **Location:** Dubai Hills Estate - Emerald
-- 🏗️ **Scope of Work:** From Concept Design to Final Handover — including excavation, structure, MEP, fit-out, façade cladding, and final finishes. All executed under my full supervision and coordination with client and consultant.
-- ⏳ **Duration:** 18 months (Start: June 2024)
-- 📸 **Photos:** See attached images in `/images/LuxuryVilla132`
+---
+
+## 📝 About Me
+
+I am a **Civil Engineer / Project Engineer** with over **3 years of experience** in the UAE construction industry.  
+My expertise lies in managing luxury villa projects, façade cladding, steel structures, MEP & interior fit-out works — from concept to completion.  
+
+Throughout my career, I have successfully delivered high-end residential and commercial projects by coordinating with consultants, clients, subcontractors and ensuring quality standards and timely handovers.
 
 ---
 
 ## 🛠️ Skills
 
-- Project Management & Site Supervision
-- Fit-Out & Interior Execution
-- Façade Engineering & Steel Structures
-- BOQ, Estimation & IPC Preparation
-- Client & Consultant Coordination
+- Project Management & Site Supervision  
+- High-end Fit-Out Execution  
+- Façade Engineering & Steel Structures  
+- BOQ, Estimation & IPC Preparation  
+- Client & Consultant Coordination  
 - AutoCAD | Microsoft Office | MS Project
 
 ---
 
 ## 📄 My CV
 
-[Download CV](CV-MudarHamchou.pdf)
+[Download my CV (PDF)](CV-MudarHamchou.pdf)
 
 ---
 
-## 📞 Contact
+## 🏗️ Project Gallery
 
-- Email: mudarhamchou234@gmail.com
-- Phone: +971 55 373 8745
+### ✨ Luxury Villa 132
+
+- 📍 **Location:** Dubai Hills Estate - Emerald  
+- 🗂️ **Scope of Work:** From concept design to final handover — structural works, MEP coordination, façade cladding, interior fit-out, finishes — under full site management and client/consultant coordination.  
+- ⏳ **Duration:** 18 months (Started: June 2024)
+
+**📷 Photos:**
+
+![Luxury Villa 132 - Photo 1](images/LuxuryVilla132/image1.jpg)  
+![Luxury Villa 132 - Photo 2](images/LuxuryVilla132/image2.jpg)  
+![Luxury Villa 132 - Photo 3](images/LuxuryVilla132/image3.jpg)  
+
+---
+
+## 📞 Contact Me
+
+- 📧 Email: [mudarhamchou234@gmail.com](mailto:mudarhamchou234@gmail.com)  
+- 📞 Phone: +971 55 373 8745  
+- LinkedIn: *(Add link here if available)*
+
+---
+
+_Thank you for visiting my portfolio!_
