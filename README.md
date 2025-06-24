@@ -1,27 +1,12 @@
 
-# 👷‍♂️ Mudar Hamchou | Civil Engineer | Fit-Out Project Engineer
-
-**📍 Dubai, UAE**  
-**📞 +971 55 373 8745**  
-**📧 mudarhamchou234@gmail.com**  
-
----
+# 👷 Mudar Hamchou | Civil Engineer | Fit-Out Project Engineer
 
 ## 🚀 About Me
 
-I am a Civil Engineer / Project Engineer with 4+ years experience in Dubai's luxury construction & fit-out market.  
-I specialize in full cycle project management of high-end villas, façade works, steel structures, renovation, and fit-out — from concept to client handover.
+I am a Civil Engineer | Project Engineer with 3+ years of experience in the UAE construction & fit-out industry.
+I specialize in managing and delivering high-end villa projects, facade works, interior fit-outs, and renovation works — from concept to handover.
 
----
-
-## 🛠️ Skills
-
-- Project Management & Site Supervision  
-- High-end Fit-Out & Interior Execution  
-- Façade Engineering & Steel Structures  
-- BOQ, Estimation & IPC Preparation  
-- Client & Consultant Coordination  
-- AutoCAD | Microsoft Office | MS Project  
+Proven ability in site supervision, project management, client coordination, and cross-discipline collaboration.
 
 ---
 
@@ -33,20 +18,28 @@ I specialize in full cycle project management of high-end villas, façade works,
 
 ## 🏗️ Project Portfolio
 
-| Project | Location | Duration | Link |
-|---------|----------|----------|------|
-| Luxury Villa 132 | Dubai Hills Estate Emerald | 18 months (6/2024 - Present) | [View Project](projects/villa_132.md) |
-| Luxury Villa 113 | Dubai Hills Estate | 12 months (Structure Only) | [View Project](projects/villa_113.md) |
-| Luxury Villa 110 | Dubai Hills Estate | 12 months (Structure Only - Coordination) | [View Project](projects/villa_110.md) |
-| Villa 103 | MBZ Al Maktoum City - District One | Renovation Works | [View Project](projects/villa_103.md) |
-| Mi Amie Restaurant | Jumeirah Emirates Towers | Completed | [View Project](projects/mi_amie_restaurant.md) |
+| Project                | Location                                 | Duration                                      | Link |
+|------------------------|------------------------------------------|-----------------------------------------------|------|
+| Luxury Villa 132       | Dubai Hills Estate Emerald                | 18 months (6/2024 - Present)                   | [View Project](projects/villa_132.md) |
+| Luxury Villa 113       | Dubai Hills Estate                        | 12 months (Structure Only)                     | [View Project](projects/villa_113.md) |
+| Luxury Villa 110       | Dubai Hills Estate                        | 12 months (Structure Only - Coordination)      | [View Project](projects/villa_110.md) |
+| Villa 103              | MBZ Al Maktoum City - District One        | Renovation Works                               | [View Project](projects/villa_103.md) |
+| Mi Amie Restaurant     | Jumeirah Emirates Towers                  | Completed                                      | [View Project](projects/mi_amie_restaurant.md) |
 
 ---
 
-## 📬 Contact
+## 📞 Contact
 
-- Email: [mudarhamchou234@gmail.com](mailto:mudarhamchou234@gmail.com)  
-- Phone: +971 55 373 8745  
-- LinkedIn: (to be added)  
+- **Email**: mudarhamchou234@gmail.com
+- **Phone**: +971 55 373 8745
+- **LinkedIn**: (to be added)
+
+---
+
+## 🖼️ Project Gallery
+
+*Project images will be uploaded soon.*
+
+Please check `/projects` & `/images` folders for progress photos and final project showcases.
 
 ---
