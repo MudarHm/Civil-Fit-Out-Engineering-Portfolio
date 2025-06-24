@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I am a Civil Engineer / Project Engineer with 3+ years experience in Dubai's luxury construction & fit-out market.  
+I am a Civil Engineer / Project Engineer with 4+ years experience in Dubai's luxury construction & fit-out market.  
 I specialize in full cycle project management of high-end villas, façade works, steel structures, renovation, and fit-out — from concept to client handover.
 
 ---
