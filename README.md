@@ -1,29 +1,40 @@
 
-# 👋 Mudar Hamchou - Civil Engineer | Project Engineer
+# 👷‍♂️ Mudar Hamchou | Civil & Fit-Out Project Engineer
 
-📍 Based in Dubai, UAE  
-📞 +971 55 373 8745  
-📧 mudarhamchou234@gmail.com  
+**📍 Based in Dubai, UAE**  
+**📞 +971 55 373 8745**  
+**📧 mudarhamchou234@gmail.com**  
 
 ---
 
-## 📝 About Me
+## 🚀 About Me
 
-I am a **Civil Engineer / Project Coordination Engineer** with over **4 years of experience** in the UAE construction industry.  
-My expertise lies in managing luxury villa projects, façade cladding, steel structures, MEP & interior fit-out works — from concept to completion.  
+I am a Civil Engineer | Project Engineer with 3+ years of experience in the UAE construction & fit-out industry.  
+I specialize in managing and delivering high-end villa projects, facade works, interior fit-outs, and renovation works — from concept to handover.  
+Proven ability in site supervision, project management, client coordination, and cross-discipline collaboration.
 
-Throughout my career, I have successfully delivered high-end residential and commercial projects by coordinating with consultants, clients, subcontractors and ensuring quality standards and timely handovers.
+---
+
+## 🏗️ Project Portfolio
+
+| Project | Location | Duration | Status |
+|---------|----------|----------|--------|
+| **Luxury Villa 132** | Dubai Hills Estate Emerald | 18 months (6/2024 - Present) | Photos Pending |
+| **Luxury Villa 113** | Dubai Hills Estate | 12 months (Structure Only) | Photos Pending |
+| **Luxury Villa 110** | Dubai Hills Estate | 12 months (Structure Only - Coordination Drawings) | Photos Pending |
+| **Villa 103** | Mohammad Bin Zayed Al Maktoum City - District One | Renovation Works | Photos Pending |
+| **Mi Amie Restaurant** | Jumeirah Emirates Towers | Completed | Photos Pending |
 
 ---
 
 ## 🛠️ Skills
 
 - Project Management & Site Supervision  
-- High-end Fit-Out Execution  
+- Fit-Out & Interior Execution  
 - Façade Engineering & Steel Structures  
 - BOQ, Estimation & IPC Preparation  
 - Client & Consultant Coordination  
-- AutoCAD | Microsoft Office | MS Project
+- AutoCAD | Microsoft Office | MS Project  
 
 ---
 
@@ -33,27 +44,18 @@ Throughout my career, I have successfully delivered high-end residential and com
 
 ---
 
-## 🏗️ Project Gallery
+## 📬 Contact Me
 
-### ✨ Luxury Villa 132
-
-- 📍 **Location:** Dubai Hills Estate - Emerald  
-- 🗂️ **Scope of Work:** From concept design to final handover — structural works, MEP coordination, façade cladding, interior fit-out, finishes — under full site management and client/consultant coordination.  
-- ⏳ **Duration:** 18 months (Started: June 2024)
-
-**📷 Photos:**
-
-![Luxury Villa 132 - Photo 1](images/LuxuryVilla132/image1.jpg)  
-![Luxury Villa 132 - Photo 2](images/LuxuryVilla132/image2.jpg)  
-![Luxury Villa 132 - Photo 3](images/LuxuryVilla132/image3.jpg)  
+- **Email**: mudarhamchou234@gmail.com  
+- **Phone**: +971 55 373 8745  
+- **LinkedIn**: (to be added)  
 
 ---
 
-## 📞 Contact Me
+## 📸 Project Gallery
 
-- 📧 Email: [mudarhamchou234@gmail.com](mailto:mudarhamchou234@gmail.com)  
-- 📞 Phone: +971 55 373 8745  
+_Project images will be updated soon._  
+Please check `/projects` & `/images` folders as I upload progress images & final project photos.
 
 ---
 
-_Thank you for visiting my portfolio!_
